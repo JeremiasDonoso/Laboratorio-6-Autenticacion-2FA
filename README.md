@@ -1,4 +1,4 @@
-# Laboratorio de Autenticación Segura con PHP y 2FA
+# Laboratorio de Autenticación con 2FA
 
 ## Descripción General
 
