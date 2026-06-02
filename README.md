@@ -111,6 +111,7 @@ Se evitó el uso de la cuenta root, limitando los permisos únicamente a las ope
 
 El sistema desarrollado permite gestionar usuarios de forma segura, proteger formularios mediante tokens CSRF, almacenar contraseñas cifradas, implementar autenticación de dos factores utilizando Google Authenticator y registrar eventos importantes de seguridad, cumpliendo con los requisitos establecidos para el laboratorio de autenticación segura.
 
+
 ---
 <div align="center">
 
@@ -118,13 +119,14 @@ El sistema desarrollado permite gestionar usuarios de forma segura, proteger for
 
 🎓 **Universidad Tecnológica de Panamá**
 
-👤 **Estudiantes:** Jeremias Donoso  •  📧 **Correo:** jeremias.donoso@utp.ac.pa
-                     Luis De Los Ríos  •  📧 **Correo:** luis.delosrios@utp.ac.pa
+| Estudiante | Correo |
+|------------|---------|
+| Jeremias Donoso | jeremias.donoso@utp.ac.pa |
+| Luis De Los Ríos | luis.delosrios@utp.ac.pa |
 
-📚 **Curso:** Desarrollo de Software 7   •   👩‍🏫 **Instructora:** Irina Fong
+📚 **Curso:** Desarrollo de Software 7  
+👩‍🏫 **Instructora:** Irina Fong  
 
-📅 **Fecha Final de Entrega:** 3 de junio de 2026  
-
----
+📅 **Fecha Final de Entrega:** 3 de junio de 2026
 
 </div>
